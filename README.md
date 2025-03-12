@@ -78,11 +78,4 @@ A desktop app that combines the Pomodoro time management technique with task tra
 - `pomodoro_data.json`: Local storage for tasks and session data
 - `notion_config.json`: Configuration for Notion integration
 
-## License
 
-[MIT License](LICENSE)
-
-## Credits
-
-- Created by [Your Name](https://github.com/yourusername)
-- Tomato icon made by [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com(base)
